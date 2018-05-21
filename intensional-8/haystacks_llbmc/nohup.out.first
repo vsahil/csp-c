@@ -1,0 +1,87 @@
+Haystacks-10.bc
+This is the Low-Level Bounded Model Checker LLBMC (version 2013.1).
+Running LLBMC with function call depth 0 and at most 0 iterations for loops with non-derivable trip count.
+
+Performing bounded model checking ...
+  Performing transformations on LLVM IR ...            0.000 sec [DONE]
+    
+  Performing logical encoding ...                      0.008 sec [DONE]
+    
+  Performing formula transformations ...               0.004 sec [DONE]
+    
+  Running SMT solver (STP with MiniSat) ...          120.048 sec [DONE]
+    
+                                                     120.064 sec [DONE]
+  
+Result:
+=======
+
+No error detected.
+
+Haystacks-15.bc
+This is the Low-Level Bounded Model Checker LLBMC (version 2013.1).
+Running LLBMC with function call depth 0 and at most 0 iterations for loops with non-derivable trip count.
+
+Performing bounded model checking ...
+  Performing transformations on LLVM IR ...            0.004 sec [DONE]
+    
+  Performing logical encoding ...                      0.020 sec [DONE]
+    
+  Performing formula transformations ...               0.052 sec [DONE]
+    
+  Running SMT solver (STP with MiniSat) ...Haystacks-16.bc
+This is the Low-Level Bounded Model Checker LLBMC (version 2013.1).
+Running LLBMC with function call depth 0 and at most 0 iterations for loops with non-derivable trip count.
+
+Performing bounded model checking ...
+  Performing transformations on LLVM IR ...            0.000 sec [DONE]
+    
+  Performing logical encoding ...                      0.040 sec [DONE]
+    
+  Performing formula transformations ...               0.096 sec [DONE]
+    
+  Running SMT solver (STP with MiniSat) ...Haystacks-17.bc
+This is the Low-Level Bounded Model Checker LLBMC (version 2013.1).
+Running LLBMC with function call depth 0 and at most 0 iterations for loops with non-derivable trip count.
+
+Performing bounded model checking ...
+  Performing transformations on LLVM IR ...            0.000 sec [DONE]
+    
+  Performing logical encoding ...                      0.060 sec [DONE]
+    
+  Performing formula transformations ...               0.124 sec [DONE]
+    
+  Running SMT solver (STP with MiniSat) ...Haystacks-18.bc
+This is the Low-Level Bounded Model Checker LLBMC (version 2013.1).
+Running LLBMC with function call depth 0 and at most 0 iterations for loops with non-derivable trip count.
+
+Performing bounded model checking ...
+  Performing transformations on LLVM IR ...            0.000 sec [DONE]
+    
+  Performing logical encoding ...                      0.048 sec [DONE]
+    
+  Performing formula transformations ...               0.124 sec [DONE]
+    
+  Running SMT solver (STP with MiniSat) ...Haystacks-19.bc
+This is the Low-Level Bounded Model Checker LLBMC (version 2013.1).
+Running LLBMC with function call depth 0 and at most 0 iterations for loops with non-derivable trip count.
+
+Performing bounded model checking ...
+  Performing transformations on LLVM IR ...            0.004 sec [DONE]
+    
+  Performing logical encoding ...                      0.080 sec [DONE]
+    
+  Performing formula transformations ...               0.192 sec [DONE]
+    
+  Running SMT solver (STP with MiniSat) ...Haystacks-20.bc
+This is the Low-Level Bounded Model Checker LLBMC (version 2013.1).
+Running LLBMC with function call depth 0 and at most 0 iterations for loops with non-derivable trip count.
+
+Performing bounded model checking ...
+  Performing transformations on LLVM IR ...            0.004 sec [DONE]
+    
+  Performing logical encoding ...                      0.092 sec [DONE]
+    
+  Performing formula transformations ...               0.224 sec [DONE]
+    
+  Running SMT solver (STP with MiniSat) ...
