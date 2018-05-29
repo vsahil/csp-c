@@ -12,6 +12,11 @@ with extensional constraints for running with KLEE or
 LLBMC. `intensional-N` directories contain C code translated from
 problems with intensional constraints for running with KLEE or LLBMC.
 
+The `data` directory contains the execution time data of the tools on
+this benchmark suite in OpenDocument Spreadheet (ods) format. We collected
+the data using 3.40 GHz Intel Core i7-6700 32GB RAM machine running
+Ubuntu 16.04.
+
 Developed by Sahil Verma <vsahil@iitk.ac.in> during internships at the
 National University of Singapore, under the guidance of [Andrew
 Santosa](https://github.com/domainexpert) and [Roland
