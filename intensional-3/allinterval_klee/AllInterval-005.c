@@ -27,27 +27,7 @@ klee_make_symbolic(&var7, sizeof(var7), "var7");
 int var8;
 klee_make_symbolic(&var8, sizeof(var8), "var8");
 int myvar0 = 1;
-if(((var0 >= 0 && var0 <= 4) && (var1 >= 0 && var1 <= 4) && (var2 >= 0 && var2 <= 4) && (var3 >= 0 && var3 <= 4) && (var4 >= 0 && var4 <= 4) && (var5 >= 1 && var5 <= 4) && (var6 >= 1 && var6 <= 4) && (var7 >= 1 && var7 <= 4) && (var8 >= 1 && var8 <= 4) &&  1))
-myvar0 = 1;
-else exit(0);
-if(( 1))
-myvar0 = 1;
-else exit(0);
-if(((var0!=var1) && (var0!=var2) && (var0!=var3) && (var0!=var4) && (var1!=var2) && (var1!=var3) && (var1!=var4) && (var2!=var3) && (var2!=var4) && (var3!=var4) &&  1))
-myvar0 = 1;
-else exit(0);
-if(((var5!=var6) && (var5!=var7) && (var5!=var8) && (var6!=var7) && (var6!=var8) && (var7!=var8) &&  1))
-myvar0 = 1;
-else exit(0);
-if(((var5 == dist(var0, var1)) && (var6 == dist(var1, var2)) && (var7 == dist(var2, var3)) && (var8 == dist(var3, var4)) &&  1))
-myvar0 = 1;
-else exit(0);
-int cntdis = 1;
-int exten = 1;
-if( myvar0 == 1 )
-cntdis = 1;
-else cntdis = 0;
-if( cntdis == 1 && exten == 1)
+if((((var0 >= 0 && var0 <= 4) && (var1 >= 0 && var1 <= 4) && (var2 >= 0 && var2 <= 4) && (var3 >= 0 && var3 <= 4) && (var4 >= 0 && var4 <= 4) && (var5 >= 1 && var5 <= 4) && (var6 >= 1 && var6 <= 4) && (var7 >= 1 && var7 <= 4) && (var8 >= 1 && var8 <= 4) &&  1)) && (( 1)) && (((var0!=var1) && (var0!=var2) && (var0!=var3) && (var0!=var4) && (var1!=var2) && (var1!=var3) && (var1!=var4) && (var2!=var3) && (var2!=var4) && (var3!=var4) &&  1)) && (((var5!=var6) && (var5!=var7) && (var5!=var8) && (var6!=var7) && (var6!=var8) && (var7!=var8) &&  1)) && (((var5 == dist(var0, var1)) && (var6 == dist(var1, var2)) && (var7 == dist(var2, var3)) && (var8 == dist(var3, var4)) &&  1)) && 1 )
 assert(0);
 else printf("UNSAT\n");
 return 0;

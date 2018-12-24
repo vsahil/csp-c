@@ -10,463 +10,156 @@ int dist(int a, int b)
 int main () {
 int var0;
 var0 = __llbmc_nondef_int();
-int myvar0 = 1;
-if((var0 >= 1) & (var0 <= 12)) {myvar0= 1;}
-else {exit(0);}
 int var1;
 var1 = __llbmc_nondef_int();
-if((var1 >= 1) & (var1 <= 12)) {myvar0= 1;}
-else {exit(0);}
 int var2;
 var2 = __llbmc_nondef_int();
-if((var2 >= 1) & (var2 <= 12)) {myvar0= 1;}
-else {exit(0);}
 int var3;
 var3 = __llbmc_nondef_int();
-if((var3 >= 1) & (var3 <= 12)) {myvar0= 1;}
-else {exit(0);}
 int var4;
 var4 = __llbmc_nondef_int();
-if((var4 >= 1) & (var4 <= 12)) {myvar0= 1;}
-else {exit(0);}
 int var5;
 var5 = __llbmc_nondef_int();
-if((var5 >= 1) & (var5 <= 12)) {myvar0= 1;}
-else {exit(0);}
 int var6;
 var6 = __llbmc_nondef_int();
-if((var6 >= 1) & (var6 <= 12)) {myvar0= 1;}
-else {exit(0);}
 int var7;
 var7 = __llbmc_nondef_int();
-if((var7 >= 1) & (var7 <= 12)) {myvar0= 1;}
-else {exit(0);}
 int var8;
 var8 = __llbmc_nondef_int();
-if((var8 >= 1) & (var8 <= 12)) {myvar0= 1;}
-else {exit(0);}
 int var9;
 var9 = __llbmc_nondef_int();
-if((var9 >= 1) & (var9 <= 12)) {myvar0= 1;}
-else {exit(0);}
 int var10;
 var10 = __llbmc_nondef_int();
-if((var10 >= 1) & (var10 <= 12)) {myvar0= 1;}
-else {exit(0);}
 int var11;
 var11 = __llbmc_nondef_int();
-if((var11 >= 1) & (var11 <= 12)) {myvar0= 1;}
-else {exit(0);}
 int var12;
 var12 = __llbmc_nondef_int();
-if((var12 >= -11) & (var12 <= 11) & (var12 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var13;
 var13 = __llbmc_nondef_int();
-if((var13 >= -11) & (var13 <= 11) & (var13 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var14;
 var14 = __llbmc_nondef_int();
-if((var14 >= -11) & (var14 <= 11) & (var14 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var15;
 var15 = __llbmc_nondef_int();
-if((var15 >= -11) & (var15 <= 11) & (var15 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var16;
 var16 = __llbmc_nondef_int();
-if((var16 >= -11) & (var16 <= 11) & (var16 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var17;
 var17 = __llbmc_nondef_int();
-if((var17 >= -11) & (var17 <= 11) & (var17 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var18;
 var18 = __llbmc_nondef_int();
-if((var18 >= -11) & (var18 <= 11) & (var18 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var19;
 var19 = __llbmc_nondef_int();
-if((var19 >= -11) & (var19 <= 11) & (var19 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var20;
 var20 = __llbmc_nondef_int();
-if((var20 >= -11) & (var20 <= 11) & (var20 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var21;
 var21 = __llbmc_nondef_int();
-if((var21 >= -11) & (var21 <= 11) & (var21 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var22;
 var22 = __llbmc_nondef_int();
-if((var22 >= -11) & (var22 <= 11) & (var22 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var23;
 var23 = __llbmc_nondef_int();
-if((var23 >= -11) & (var23 <= 11) & (var23 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var24;
 var24 = __llbmc_nondef_int();
-if((var24 >= -11) & (var24 <= 11) & (var24 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var25;
 var25 = __llbmc_nondef_int();
-if((var25 >= -11) & (var25 <= 11) & (var25 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var26;
 var26 = __llbmc_nondef_int();
-if((var26 >= -11) & (var26 <= 11) & (var26 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var27;
 var27 = __llbmc_nondef_int();
-if((var27 >= -11) & (var27 <= 11) & (var27 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var28;
 var28 = __llbmc_nondef_int();
-if((var28 >= -11) & (var28 <= 11) & (var28 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var29;
 var29 = __llbmc_nondef_int();
-if((var29 >= -11) & (var29 <= 11) & (var29 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var30;
 var30 = __llbmc_nondef_int();
-if((var30 >= -11) & (var30 <= 11) & (var30 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var31;
 var31 = __llbmc_nondef_int();
-if((var31 >= -11) & (var31 <= 11) & (var31 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var32;
 var32 = __llbmc_nondef_int();
-if((var32 >= -11) & (var32 <= 11) & (var32 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var33;
 var33 = __llbmc_nondef_int();
-if((var33 >= -11) & (var33 <= 11) & (var33 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var34;
 var34 = __llbmc_nondef_int();
-if((var34 >= -11) & (var34 <= 11) & (var34 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var35;
 var35 = __llbmc_nondef_int();
-if((var35 >= -11) & (var35 <= 11) & (var35 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var36;
 var36 = __llbmc_nondef_int();
-if((var36 >= -11) & (var36 <= 11) & (var36 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var37;
 var37 = __llbmc_nondef_int();
-if((var37 >= -11) & (var37 <= 11) & (var37 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var38;
 var38 = __llbmc_nondef_int();
-if((var38 >= -11) & (var38 <= 11) & (var38 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var39;
 var39 = __llbmc_nondef_int();
-if((var39 >= -11) & (var39 <= 11) & (var39 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var40;
 var40 = __llbmc_nondef_int();
-if((var40 >= -11) & (var40 <= 11) & (var40 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var41;
 var41 = __llbmc_nondef_int();
-if((var41 >= -11) & (var41 <= 11) & (var41 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var42;
 var42 = __llbmc_nondef_int();
-if((var42 >= -11) & (var42 <= 11) & (var42 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var43;
 var43 = __llbmc_nondef_int();
-if((var43 >= -11) & (var43 <= 11) & (var43 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var44;
 var44 = __llbmc_nondef_int();
-if((var44 >= -11) & (var44 <= 11) & (var44 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var45;
 var45 = __llbmc_nondef_int();
-if((var45 >= -11) & (var45 <= 11) & (var45 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var46;
 var46 = __llbmc_nondef_int();
-if((var46 >= -11) & (var46 <= 11) & (var46 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var47;
 var47 = __llbmc_nondef_int();
-if((var47 >= -11) & (var47 <= 11) & (var47 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var48;
 var48 = __llbmc_nondef_int();
-if((var48 >= -11) & (var48 <= 11) & (var48 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var49;
 var49 = __llbmc_nondef_int();
-if((var49 >= -11) & (var49 <= 11) & (var49 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var50;
 var50 = __llbmc_nondef_int();
-if((var50 >= -11) & (var50 <= 11) & (var50 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var51;
 var51 = __llbmc_nondef_int();
-if((var51 >= -11) & (var51 <= 11) & (var51 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var52;
 var52 = __llbmc_nondef_int();
-if((var52 >= -11) & (var52 <= 11) & (var52 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var53;
 var53 = __llbmc_nondef_int();
-if((var53 >= -11) & (var53 <= 11) & (var53 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var54;
 var54 = __llbmc_nondef_int();
-if((var54 >= -11) & (var54 <= 11) & (var54 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var55;
 var55 = __llbmc_nondef_int();
-if((var55 >= -11) & (var55 <= 11) & (var55 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var56;
 var56 = __llbmc_nondef_int();
-if((var56 >= -11) & (var56 <= 11) & (var56 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var57;
 var57 = __llbmc_nondef_int();
-if((var57 >= -11) & (var57 <= 11) & (var57 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var58;
 var58 = __llbmc_nondef_int();
-if((var58 >= -11) & (var58 <= 11) & (var58 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var59;
 var59 = __llbmc_nondef_int();
-if((var59 >= -11) & (var59 <= 11) & (var59 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var60;
 var60 = __llbmc_nondef_int();
-if((var60 >= -11) & (var60 <= 11) & (var60 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var61;
 var61 = __llbmc_nondef_int();
-if((var61 >= -11) & (var61 <= 11) & (var61 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var62;
 var62 = __llbmc_nondef_int();
-if((var62 >= -11) & (var62 <= 11) & (var62 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var63;
 var63 = __llbmc_nondef_int();
-if((var63 >= -11) & (var63 <= 11) & (var63 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var64;
 var64 = __llbmc_nondef_int();
-if((var64 >= -11) & (var64 <= 11) & (var64 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var65;
 var65 = __llbmc_nondef_int();
-if((var65 >= -11) & (var65 <= 11) & (var65 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var66;
 var66 = __llbmc_nondef_int();
-if((var66 >= -11) & (var66 <= 11) & (var66 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var67;
 var67 = __llbmc_nondef_int();
-if((var67 >= -11) & (var67 <= 11) & (var67 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var68;
 var68 = __llbmc_nondef_int();
-if((var68 >= -11) & (var68 <= 11) & (var68 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var69;
 var69 = __llbmc_nondef_int();
-if((var69 >= -11) & (var69 <= 11) & (var69 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var70;
 var70 = __llbmc_nondef_int();
-if((var70 >= -11) & (var70 <= 11) & (var70 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var71;
 var71 = __llbmc_nondef_int();
-if((var71 >= -11) & (var71 <= 11) & (var71 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var72;
 var72 = __llbmc_nondef_int();
-if((var72 >= -11) & (var72 <= 11) & (var72 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var73;
 var73 = __llbmc_nondef_int();
-if((var73 >= -11) & (var73 <= 11) & (var73 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
 int var74;
 var74 = __llbmc_nondef_int();
-if((var74 >= -11) & (var74 <= 11) & (var74 != 0) & 1) {myvar0= 1;}
-else {exit(0);}
-if(((var0!=var1) & (var0!=var2) & (var0!=var3) & (var0!=var4) & (var0!=var5) & (var0!=var6) & (var0!=var7) & (var0!=var8) & (var0!=var9) & (var0!=var10) & (var0!=var11) & (var1!=var2) & (var1!=var3) & (var1!=var4) & (var1!=var5) & (var1!=var6) & (var1!=var7) & (var1!=var8) & (var1!=var9) & (var1!=var10) & (var1!=var11) & (var2!=var3) & (var2!=var4) & (var2!=var5) & (var2!=var6) & (var2!=var7) & (var2!=var8) & (var2!=var9) & (var2!=var10) & (var2!=var11) & (var3!=var4) & (var3!=var5) & (var3!=var6) & (var3!=var7) & (var3!=var8) & (var3!=var9) & (var3!=var10) & (var3!=var11) & (var4!=var5) & (var4!=var6) & (var4!=var7) & (var4!=var8) & (var4!=var9) & (var4!=var10) & (var4!=var11) & (var5!=var6) & (var5!=var7) & (var5!=var8) & (var5!=var9) & (var5!=var10) & (var5!=var11) & (var6!=var7) & (var6!=var8) & (var6!=var9) & (var6!=var10) & (var6!=var11) & (var7!=var8) & (var7!=var9) & (var7!=var10) & (var7!=var11) & (var8!=var9) & (var8!=var10) & (var8!=var11) & (var9!=var10) & (var9!=var11) & (var10!=var11) &  1))
-{myvar0= 1;}
-else {exit(0);}
-if(((var12!=var13) & (var12!=var14) & (var12!=var15) & (var12!=var16) & (var12!=var17) & (var12!=var18) & (var12!=var19) & (var12!=var20) & (var12!=var21) & (var12!=var22) & (var13!=var14) & (var13!=var15) & (var13!=var16) & (var13!=var17) & (var13!=var18) & (var13!=var19) & (var13!=var20) & (var13!=var21) & (var13!=var22) & (var14!=var15) & (var14!=var16) & (var14!=var17) & (var14!=var18) & (var14!=var19) & (var14!=var20) & (var14!=var21) & (var14!=var22) & (var15!=var16) & (var15!=var17) & (var15!=var18) & (var15!=var19) & (var15!=var20) & (var15!=var21) & (var15!=var22) & (var16!=var17) & (var16!=var18) & (var16!=var19) & (var16!=var20) & (var16!=var21) & (var16!=var22) & (var17!=var18) & (var17!=var19) & (var17!=var20) & (var17!=var21) & (var17!=var22) & (var18!=var19) & (var18!=var20) & (var18!=var21) & (var18!=var22) & (var19!=var20) & (var19!=var21) & (var19!=var22) & (var20!=var21) & (var20!=var22) & (var21!=var22) &  1))
-{myvar0= 1;}
-else {exit(0);}
-if(((var23!=var24) & (var23!=var25) & (var23!=var26) & (var23!=var27) & (var23!=var28) & (var23!=var29) & (var23!=var30) & (var23!=var31) & (var23!=var32) & (var24!=var25) & (var24!=var26) & (var24!=var27) & (var24!=var28) & (var24!=var29) & (var24!=var30) & (var24!=var31) & (var24!=var32) & (var25!=var26) & (var25!=var27) & (var25!=var28) & (var25!=var29) & (var25!=var30) & (var25!=var31) & (var25!=var32) & (var26!=var27) & (var26!=var28) & (var26!=var29) & (var26!=var30) & (var26!=var31) & (var26!=var32) & (var27!=var28) & (var27!=var29) & (var27!=var30) & (var27!=var31) & (var27!=var32) & (var28!=var29) & (var28!=var30) & (var28!=var31) & (var28!=var32) & (var29!=var30) & (var29!=var31) & (var29!=var32) & (var30!=var31) & (var30!=var32) & (var31!=var32) &  1))
-{myvar0= 1;}
-else {exit(0);}
-if(((var33!=var34) & (var33!=var35) & (var33!=var36) & (var33!=var37) & (var33!=var38) & (var33!=var39) & (var33!=var40) & (var33!=var41) & (var34!=var35) & (var34!=var36) & (var34!=var37) & (var34!=var38) & (var34!=var39) & (var34!=var40) & (var34!=var41) & (var35!=var36) & (var35!=var37) & (var35!=var38) & (var35!=var39) & (var35!=var40) & (var35!=var41) & (var36!=var37) & (var36!=var38) & (var36!=var39) & (var36!=var40) & (var36!=var41) & (var37!=var38) & (var37!=var39) & (var37!=var40) & (var37!=var41) & (var38!=var39) & (var38!=var40) & (var38!=var41) & (var39!=var40) & (var39!=var41) & (var40!=var41) &  1))
-{myvar0= 1;}
-else {exit(0);}
-if(((var42!=var43) & (var42!=var44) & (var42!=var45) & (var42!=var46) & (var42!=var47) & (var42!=var48) & (var42!=var49) & (var43!=var44) & (var43!=var45) & (var43!=var46) & (var43!=var47) & (var43!=var48) & (var43!=var49) & (var44!=var45) & (var44!=var46) & (var44!=var47) & (var44!=var48) & (var44!=var49) & (var45!=var46) & (var45!=var47) & (var45!=var48) & (var45!=var49) & (var46!=var47) & (var46!=var48) & (var46!=var49) & (var47!=var48) & (var47!=var49) & (var48!=var49) &  1))
-{myvar0= 1;}
-else {exit(0);}
-if(((var50!=var51) & (var50!=var52) & (var50!=var53) & (var50!=var54) & (var50!=var55) & (var50!=var56) & (var51!=var52) & (var51!=var53) & (var51!=var54) & (var51!=var55) & (var51!=var56) & (var52!=var53) & (var52!=var54) & (var52!=var55) & (var52!=var56) & (var53!=var54) & (var53!=var55) & (var53!=var56) & (var54!=var55) & (var54!=var56) & (var55!=var56) &  1))
-{myvar0= 1;}
-else {exit(0);}
-if(((var57!=var58) & (var57!=var59) & (var57!=var60) & (var57!=var61) & (var57!=var62) & (var58!=var59) & (var58!=var60) & (var58!=var61) & (var58!=var62) & (var59!=var60) & (var59!=var61) & (var59!=var62) & (var60!=var61) & (var60!=var62) & (var61!=var62) &  1))
-{myvar0= 1;}
-else {exit(0);}
-if(((var63!=var64) & (var63!=var65) & (var63!=var66) & (var63!=var67) & (var64!=var65) & (var64!=var66) & (var64!=var67) & (var65!=var66) & (var65!=var67) & (var66!=var67) &  1))
-{myvar0= 1;}
-else {exit(0);}
-if(((var68!=var69) & (var68!=var70) & (var68!=var71) & (var69!=var70) & (var69!=var71) & (var70!=var71) &  1))
-{myvar0= 1;}
-else {exit(0);}
-if(((var72!=var73) & (var72!=var74) & (var73!=var74) &  1))
-{myvar0= 1;}
-else {exit(0);}
-if((var0 - var1 == var12)){myvar0= 1;}
-else {exit(0);}
-if((var1 - var2 == var13)){myvar0= 1;}
-else {exit(0);}
-if((var2 - var3 == var14)){myvar0= 1;}
-else {exit(0);}
-if((var3 - var4 == var15)){myvar0= 1;}
-else {exit(0);}
-if((var4 - var5 == var16)){myvar0= 1;}
-else {exit(0);}
-if((var5 - var6 == var17)){myvar0= 1;}
-else {exit(0);}
-if((var6 - var7 == var18)){myvar0= 1;}
-else {exit(0);}
-if((var7 - var8 == var19)){myvar0= 1;}
-else {exit(0);}
-if((var8 - var9 == var20)){myvar0= 1;}
-else {exit(0);}
-if((var9 - var10 == var21)){myvar0= 1;}
-else {exit(0);}
-if((var10 - var11 == var22)){myvar0= 1;}
-else {exit(0);}
-if((var0 - var2 == var23)){myvar0= 1;}
-else {exit(0);}
-if((var1 - var3 == var24)){myvar0= 1;}
-else {exit(0);}
-if((var2 - var4 == var25)){myvar0= 1;}
-else {exit(0);}
-if((var3 - var5 == var26)){myvar0= 1;}
-else {exit(0);}
-if((var4 - var6 == var27)){myvar0= 1;}
-else {exit(0);}
-if((var5 - var7 == var28)){myvar0= 1;}
-else {exit(0);}
-if((var6 - var8 == var29)){myvar0= 1;}
-else {exit(0);}
-if((var7 - var9 == var30)){myvar0= 1;}
-else {exit(0);}
-if((var8 - var10 == var31)){myvar0= 1;}
-else {exit(0);}
-if((var9 - var11 == var32)){myvar0= 1;}
-else {exit(0);}
-if((var0 - var3 == var33)){myvar0= 1;}
-else {exit(0);}
-if((var1 - var4 == var34)){myvar0= 1;}
-else {exit(0);}
-if((var2 - var5 == var35)){myvar0= 1;}
-else {exit(0);}
-if((var3 - var6 == var36)){myvar0= 1;}
-else {exit(0);}
-if((var4 - var7 == var37)){myvar0= 1;}
-else {exit(0);}
-if((var5 - var8 == var38)){myvar0= 1;}
-else {exit(0);}
-if((var6 - var9 == var39)){myvar0= 1;}
-else {exit(0);}
-if((var7 - var10 == var40)){myvar0= 1;}
-else {exit(0);}
-if((var8 - var11 == var41)){myvar0= 1;}
-else {exit(0);}
-if((var0 - var4 == var42)){myvar0= 1;}
-else {exit(0);}
-if((var1 - var5 == var43)){myvar0= 1;}
-else {exit(0);}
-if((var2 - var6 == var44)){myvar0= 1;}
-else {exit(0);}
-if((var3 - var7 == var45)){myvar0= 1;}
-else {exit(0);}
-if((var4 - var8 == var46)){myvar0= 1;}
-else {exit(0);}
-if((var5 - var9 == var47)){myvar0= 1;}
-else {exit(0);}
-if((var6 - var10 == var48)){myvar0= 1;}
-else {exit(0);}
-if((var7 - var11 == var49)){myvar0= 1;}
-else {exit(0);}
-if((var0 - var5 == var50)){myvar0= 1;}
-else {exit(0);}
-if((var1 - var6 == var51)){myvar0= 1;}
-else {exit(0);}
-if((var2 - var7 == var52)){myvar0= 1;}
-else {exit(0);}
-if((var3 - var8 == var53)){myvar0= 1;}
-else {exit(0);}
-if((var4 - var9 == var54)){myvar0= 1;}
-else {exit(0);}
-if((var5 - var10 == var55)){myvar0= 1;}
-else {exit(0);}
-if((var6 - var11 == var56)){myvar0= 1;}
-else {exit(0);}
-if((var0 - var6 == var57)){myvar0= 1;}
-else {exit(0);}
-if((var1 - var7 == var58)){myvar0= 1;}
-else {exit(0);}
-if((var2 - var8 == var59)){myvar0= 1;}
-else {exit(0);}
-if((var3 - var9 == var60)){myvar0= 1;}
-else {exit(0);}
-if((var4 - var10 == var61)){myvar0= 1;}
-else {exit(0);}
-if((var5 - var11 == var62)){myvar0= 1;}
-else {exit(0);}
-if((var0 - var7 == var63)){myvar0= 1;}
-else {exit(0);}
-if((var1 - var8 == var64)){myvar0= 1;}
-else {exit(0);}
-if((var2 - var9 == var65)){myvar0= 1;}
-else {exit(0);}
-if((var3 - var10 == var66)){myvar0= 1;}
-else {exit(0);}
-if((var4 - var11 == var67)){myvar0= 1;}
-else {exit(0);}
-if((var0 - var8 == var68)){myvar0= 1;}
-else {exit(0);}
-if((var1 - var9 == var69)){myvar0= 1;}
-else {exit(0);}
-if((var2 - var10 == var70)){myvar0= 1;}
-else {exit(0);}
-if((var3 - var11 == var71)){myvar0= 1;}
-else {exit(0);}
-if((var0 - var9 == var72)){myvar0= 1;}
-else {exit(0);}
-if((var1 - var10 == var73)){myvar0= 1;}
-else {exit(0);}
-if((var2 - var11 == var74)){myvar0= 1;}
-else {exit(0);}
-if(((var0 - var10) != (var1 - var11))){myvar0= 1;}
-else {exit(0);}
+int myvar0 = 1;
+if((((var0 >= 1 & var0 <= 12) & (var1 >= 1 & var1 <= 12) & (var2 >= 1 & var2 <= 12) & (var3 >= 1 & var3 <= 12) & (var4 >= 1 & var4 <= 12) & (var5 >= 1 & var5 <= 12) & (var6 >= 1 & var6 <= 12) & (var7 >= 1 & var7 <= 12) & (var8 >= 1 & var8 <= 12) & (var9 >= 1 & var9 <= 12) & (var10 >= 1 & var10 <= 12) & (var11 >= 1 & var11 <= 12) &  1)) & (((var12 >= -11 & var12 <= 11 & var12 != 0 &  1) & (var13 >= -11 & var13 <= 11 & var13 != 0 &  1) & (var14 >= -11 & var14 <= 11 & var14 != 0 &  1) & (var15 >= -11 & var15 <= 11 & var15 != 0 &  1) & (var16 >= -11 & var16 <= 11 & var16 != 0 &  1) & (var17 >= -11 & var17 <= 11 & var17 != 0 &  1) & (var18 >= -11 & var18 <= 11 & var18 != 0 &  1) & (var19 >= -11 & var19 <= 11 & var19 != 0 &  1) & (var20 >= -11 & var20 <= 11 & var20 != 0 &  1) & (var21 >= -11 & var21 <= 11 & var21 != 0 &  1) & (var22 >= -11 & var22 <= 11 & var22 != 0 &  1) & (var23 >= -11 & var23 <= 11 & var23 != 0 &  1) & (var24 >= -11 & var24 <= 11 & var24 != 0 &  1) & (var25 >= -11 & var25 <= 11 & var25 != 0 &  1) & (var26 >= -11 & var26 <= 11 & var26 != 0 &  1) & (var27 >= -11 & var27 <= 11 & var27 != 0 &  1) & (var28 >= -11 & var28 <= 11 & var28 != 0 &  1) & (var29 >= -11 & var29 <= 11 & var29 != 0 &  1) & (var30 >= -11 & var30 <= 11 & var30 != 0 &  1) & (var31 >= -11 & var31 <= 11 & var31 != 0 &  1) & (var32 >= -11 & var32 <= 11 & var32 != 0 &  1) & (var33 >= -11 & var33 <= 11 & var33 != 0 &  1) & (var34 >= -11 & var34 <= 11 & var34 != 0 &  1) & (var35 >= -11 & var35 <= 11 & var35 != 0 &  1) & (var36 >= -11 & var36 <= 11 & var36 != 0 &  1) & (var37 >= -11 & var37 <= 11 & var37 != 0 &  1) & (var38 >= -11 & var38 <= 11 & var38 != 0 &  1) & (var39 >= -11 & var39 <= 11 & var39 != 0 &  1) & (var40 >= -11 & var40 <= 11 & var40 != 0 &  1) & (var41 >= -11 & var41 <= 11 & var41 != 0 &  1) & (var42 >= -11 & var42 <= 11 & var42 != 0 &  1) & (var43 >= -11 & var43 <= 11 & var43 != 0 &  1) & (var44 >= -11 & var44 <= 11 & var44 != 0 &  1) & (var45 >= -11 & var45 <= 11 & var45 != 0 &  1) & (var46 >= -11 & var46 <= 11 & var46 != 0 &  1) & (var47 >= -11 & var47 <= 11 & var47 != 0 &  1) & (var48 >= -11 & var48 <= 11 & var48 != 0 &  1) & (var49 >= -11 & var49 <= 11 & var49 != 0 &  1) & (var50 >= -11 & var50 <= 11 & var50 != 0 &  1) & (var51 >= -11 & var51 <= 11 & var51 != 0 &  1) & (var52 >= -11 & var52 <= 11 & var52 != 0 &  1) & (var53 >= -11 & var53 <= 11 & var53 != 0 &  1) & (var54 >= -11 & var54 <= 11 & var54 != 0 &  1) & (var55 >= -11 & var55 <= 11 & var55 != 0 &  1) & (var56 >= -11 & var56 <= 11 & var56 != 0 &  1) & (var57 >= -11 & var57 <= 11 & var57 != 0 &  1) & (var58 >= -11 & var58 <= 11 & var58 != 0 &  1) & (var59 >= -11 & var59 <= 11 & var59 != 0 &  1) & (var60 >= -11 & var60 <= 11 & var60 != 0 &  1) & (var61 >= -11 & var61 <= 11 & var61 != 0 &  1) & (var62 >= -11 & var62 <= 11 & var62 != 0 &  1) & (var63 >= -11 & var63 <= 11 & var63 != 0 &  1) & (var64 >= -11 & var64 <= 11 & var64 != 0 &  1) & (var65 >= -11 & var65 <= 11 & var65 != 0 &  1) & (var66 >= -11 & var66 <= 11 & var66 != 0 &  1) & (var67 >= -11 & var67 <= 11 & var67 != 0 &  1) & (var68 >= -11 & var68 <= 11 & var68 != 0 &  1) & (var69 >= -11 & var69 <= 11 & var69 != 0 &  1) & (var70 >= -11 & var70 <= 11 & var70 != 0 &  1) & (var71 >= -11 & var71 <= 11 & var71 != 0 &  1) & (var72 >= -11 & var72 <= 11 & var72 != 0 &  1) & (var73 >= -11 & var73 <= 11 & var73 != 0 &  1) & (var74 >= -11 & var74 <= 11 & var74 != 0 &  1) &  1)) & (((var0!=var1) & (var0!=var2) & (var0!=var3) & (var0!=var4) & (var0!=var5) & (var0!=var6) & (var0!=var7) & (var0!=var8) & (var0!=var9) & (var0!=var10) & (var0!=var11) & (var1!=var2) & (var1!=var3) & (var1!=var4) & (var1!=var5) & (var1!=var6) & (var1!=var7) & (var1!=var8) & (var1!=var9) & (var1!=var10) & (var1!=var11) & (var2!=var3) & (var2!=var4) & (var2!=var5) & (var2!=var6) & (var2!=var7) & (var2!=var8) & (var2!=var9) & (var2!=var10) & (var2!=var11) & (var3!=var4) & (var3!=var5) & (var3!=var6) & (var3!=var7) & (var3!=var8) & (var3!=var9) & (var3!=var10) & (var3!=var11) & (var4!=var5) & (var4!=var6) & (var4!=var7) & (var4!=var8) & (var4!=var9) & (var4!=var10) & (var4!=var11) & (var5!=var6) & (var5!=var7) & (var5!=var8) & (var5!=var9) & (var5!=var10) & (var5!=var11) & (var6!=var7) & (var6!=var8) & (var6!=var9) & (var6!=var10) & (var6!=var11) & (var7!=var8) & (var7!=var9) & (var7!=var10) & (var7!=var11) & (var8!=var9) & (var8!=var10) & (var8!=var11) & (var9!=var10) & (var9!=var11) & (var10!=var11) &  1)) & (((var12!=var13) & (var12!=var14) & (var12!=var15) & (var12!=var16) & (var12!=var17) & (var12!=var18) & (var12!=var19) & (var12!=var20) & (var12!=var21) & (var12!=var22) & (var13!=var14) & (var13!=var15) & (var13!=var16) & (var13!=var17) & (var13!=var18) & (var13!=var19) & (var13!=var20) & (var13!=var21) & (var13!=var22) & (var14!=var15) & (var14!=var16) & (var14!=var17) & (var14!=var18) & (var14!=var19) & (var14!=var20) & (var14!=var21) & (var14!=var22) & (var15!=var16) & (var15!=var17) & (var15!=var18) & (var15!=var19) & (var15!=var20) & (var15!=var21) & (var15!=var22) & (var16!=var17) & (var16!=var18) & (var16!=var19) & (var16!=var20) & (var16!=var21) & (var16!=var22) & (var17!=var18) & (var17!=var19) & (var17!=var20) & (var17!=var21) & (var17!=var22) & (var18!=var19) & (var18!=var20) & (var18!=var21) & (var18!=var22) & (var19!=var20) & (var19!=var21) & (var19!=var22) & (var20!=var21) & (var20!=var22) & (var21!=var22) &  1)) & (((var23!=var24) & (var23!=var25) & (var23!=var26) & (var23!=var27) & (var23!=var28) & (var23!=var29) & (var23!=var30) & (var23!=var31) & (var23!=var32) & (var24!=var25) & (var24!=var26) & (var24!=var27) & (var24!=var28) & (var24!=var29) & (var24!=var30) & (var24!=var31) & (var24!=var32) & (var25!=var26) & (var25!=var27) & (var25!=var28) & (var25!=var29) & (var25!=var30) & (var25!=var31) & (var25!=var32) & (var26!=var27) & (var26!=var28) & (var26!=var29) & (var26!=var30) & (var26!=var31) & (var26!=var32) & (var27!=var28) & (var27!=var29) & (var27!=var30) & (var27!=var31) & (var27!=var32) & (var28!=var29) & (var28!=var30) & (var28!=var31) & (var28!=var32) & (var29!=var30) & (var29!=var31) & (var29!=var32) & (var30!=var31) & (var30!=var32) & (var31!=var32) &  1)) & (((var33!=var34) & (var33!=var35) & (var33!=var36) & (var33!=var37) & (var33!=var38) & (var33!=var39) & (var33!=var40) & (var33!=var41) & (var34!=var35) & (var34!=var36) & (var34!=var37) & (var34!=var38) & (var34!=var39) & (var34!=var40) & (var34!=var41) & (var35!=var36) & (var35!=var37) & (var35!=var38) & (var35!=var39) & (var35!=var40) & (var35!=var41) & (var36!=var37) & (var36!=var38) & (var36!=var39) & (var36!=var40) & (var36!=var41) & (var37!=var38) & (var37!=var39) & (var37!=var40) & (var37!=var41) & (var38!=var39) & (var38!=var40) & (var38!=var41) & (var39!=var40) & (var39!=var41) & (var40!=var41) &  1)) & (((var42!=var43) & (var42!=var44) & (var42!=var45) & (var42!=var46) & (var42!=var47) & (var42!=var48) & (var42!=var49) & (var43!=var44) & (var43!=var45) & (var43!=var46) & (var43!=var47) & (var43!=var48) & (var43!=var49) & (var44!=var45) & (var44!=var46) & (var44!=var47) & (var44!=var48) & (var44!=var49) & (var45!=var46) & (var45!=var47) & (var45!=var48) & (var45!=var49) & (var46!=var47) & (var46!=var48) & (var46!=var49) & (var47!=var48) & (var47!=var49) & (var48!=var49) &  1)) & (((var50!=var51) & (var50!=var52) & (var50!=var53) & (var50!=var54) & (var50!=var55) & (var50!=var56) & (var51!=var52) & (var51!=var53) & (var51!=var54) & (var51!=var55) & (var51!=var56) & (var52!=var53) & (var52!=var54) & (var52!=var55) & (var52!=var56) & (var53!=var54) & (var53!=var55) & (var53!=var56) & (var54!=var55) & (var54!=var56) & (var55!=var56) &  1)) & (((var57!=var58) & (var57!=var59) & (var57!=var60) & (var57!=var61) & (var57!=var62) & (var58!=var59) & (var58!=var60) & (var58!=var61) & (var58!=var62) & (var59!=var60) & (var59!=var61) & (var59!=var62) & (var60!=var61) & (var60!=var62) & (var61!=var62) &  1)) & (((var63!=var64) & (var63!=var65) & (var63!=var66) & (var63!=var67) & (var64!=var65) & (var64!=var66) & (var64!=var67) & (var65!=var66) & (var65!=var67) & (var66!=var67) &  1)) & (((var68!=var69) & (var68!=var70) & (var68!=var71) & (var69!=var70) & (var69!=var71) & (var70!=var71) &  1)) & (((var72!=var73) & (var72!=var74) & (var73!=var74) &  1)) & (((var0 - var1 == var12) & (var1 - var2 == var13) & (var2 - var3 == var14) & (var3 - var4 == var15) & (var4 - var5 == var16) & (var5 - var6 == var17) & (var6 - var7 == var18) & (var7 - var8 == var19) & (var8 - var9 == var20) & (var9 - var10 == var21) & (var10 - var11 == var22) & (var0 - var2 == var23) & (var1 - var3 == var24) & (var2 - var4 == var25) & (var3 - var5 == var26) & (var4 - var6 == var27) & (var5 - var7 == var28) & (var6 - var8 == var29) & (var7 - var9 == var30) & (var8 - var10 == var31) & (var9 - var11 == var32) & (var0 - var3 == var33) & (var1 - var4 == var34) & (var2 - var5 == var35) & (var3 - var6 == var36) & (var4 - var7 == var37) & (var5 - var8 == var38) & (var6 - var9 == var39) & (var7 - var10 == var40) & (var8 - var11 == var41) & (var0 - var4 == var42) & (var1 - var5 == var43) & (var2 - var6 == var44) & (var3 - var7 == var45) & (var4 - var8 == var46) & (var5 - var9 == var47) & (var6 - var10 == var48) & (var7 - var11 == var49) & (var0 - var5 == var50) & (var1 - var6 == var51) & (var2 - var7 == var52) & (var3 - var8 == var53) & (var4 - var9 == var54) & (var5 - var10 == var55) & (var6 - var11 == var56) & (var0 - var6 == var57) & (var1 - var7 == var58) & (var2 - var8 == var59) & (var3 - var9 == var60) & (var4 - var10 == var61) & (var5 - var11 == var62) & (var0 - var7 == var63) & (var1 - var8 == var64) & (var2 - var9 == var65) & (var3 - var10 == var66) & (var4 - var11 == var67) & (var0 - var8 == var68) & (var1 - var9 == var69) & (var2 - var10 == var70) & (var3 - var11 == var71) & (var0 - var9 == var72) & (var1 - var10 == var73) & (var2 - var11 == var74) &  1)) & ((((var0 - var10) != (var1 - var11)) &  1)) & 1 )
 assert(0);
 return 0;
 /* 

@@ -10,76 +10,28 @@ int dist(int a, int b)
 int main () {
 int var0;
 var0 = __llbmc_nondef_int();
-int myvar0 = 1;
-if((var0 >= 0) & (var0 <= 5)) {myvar0= 1;}
-else {exit(0);}
 int var1;
 var1 = __llbmc_nondef_int();
-if((var1 >= 0) & (var1 <= 5)) {myvar0= 1;}
-else {exit(0);}
 int var2;
 var2 = __llbmc_nondef_int();
-if((var2 >= 0) & (var2 <= 5)) {myvar0= 1;}
-else {exit(0);}
 int var3;
 var3 = __llbmc_nondef_int();
-if((var3 >= 0) & (var3 <= 5)) {myvar0= 1;}
-else {exit(0);}
 int var4;
 var4 = __llbmc_nondef_int();
-if((var4 >= 0) & (var4 <= 5)) {myvar0= 1;}
-else {exit(0);}
 int var5;
 var5 = __llbmc_nondef_int();
-if((var5 >= 0) & (var5 <= 5)) {myvar0= 1;}
-else {exit(0);}
 int var6;
 var6 = __llbmc_nondef_int();
-if((var6 >= 1) & (var6 <= 5)) {myvar0= 1;}
-else {exit(0);}
 int var7;
 var7 = __llbmc_nondef_int();
-if((var7 >= 1) & (var7 <= 5)) {myvar0= 1;}
-else {exit(0);}
 int var8;
 var8 = __llbmc_nondef_int();
-if((var8 >= 1) & (var8 <= 5)) {myvar0= 1;}
-else {exit(0);}
 int var9;
 var9 = __llbmc_nondef_int();
-if((var9 >= 1) & (var9 <= 5)) {myvar0= 1;}
-else {exit(0);}
 int var10;
 var10 = __llbmc_nondef_int();
-if((var10 >= 1) & (var10 <= 5)) {myvar0= 1;}
-else {exit(0);}
-if(((var0!=var1) & (var0!=var2) & (var0!=var3) & (var0!=var4) & (var0!=var5) & (var1!=var2) & (var1!=var3) & (var1!=var4) & (var1!=var5) & (var2!=var3) & (var2!=var4) & (var2!=var5) & (var3!=var4) & (var3!=var5) & (var4!=var5) &  1))
-{myvar0= 1;}
-else {exit(0);}
-if(((var6!=var7) & (var6!=var8) & (var6!=var9) & (var6!=var10) & (var7!=var8) & (var7!=var9) & (var7!=var10) & (var8!=var9) & (var8!=var10) & (var9!=var10) &  1))
-{myvar0= 1;}
-else {exit(0);}
-int var_for_abs;
-var_for_abs = var0 - var1;
-var_for_abs = (var_for_abs >= 0) ? var_for_abs : var_for_abs*(-1);
-if(var6 == var_for_abs){myvar0= 1;}
-else {exit(0);}
-var_for_abs = var1 - var2;
-var_for_abs = (var_for_abs >= 0) ? var_for_abs : var_for_abs*(-1);
-if(var7 == var_for_abs){myvar0= 1;}
-else {exit(0);}
-var_for_abs = var2 - var3;
-var_for_abs = (var_for_abs >= 0) ? var_for_abs : var_for_abs*(-1);
-if(var8 == var_for_abs){myvar0= 1;}
-else {exit(0);}
-var_for_abs = var3 - var4;
-var_for_abs = (var_for_abs >= 0) ? var_for_abs : var_for_abs*(-1);
-if(var9 == var_for_abs){myvar0= 1;}
-else {exit(0);}
-var_for_abs = var4 - var5;
-var_for_abs = (var_for_abs >= 0) ? var_for_abs : var_for_abs*(-1);
-if(var10 == var_for_abs){myvar0= 1;}
-else {exit(0);}
+int myvar0 = 1;
+if((((var0 >= 0 & var0 <= 5) & (var1 >= 0 & var1 <= 5) & (var2 >= 0 & var2 <= 5) & (var3 >= 0 & var3 <= 5) & (var4 >= 0 & var4 <= 5) & (var5 >= 0 & var5 <= 5) & (var6 >= 1 & var6 <= 5) & (var7 >= 1 & var7 <= 5) & (var8 >= 1 & var8 <= 5) & (var9 >= 1 & var9 <= 5) & (var10 >= 1 & var10 <= 5) &  1)) & (( 1)) & (((var0!=var1) & (var0!=var2) & (var0!=var3) & (var0!=var4) & (var0!=var5) & (var1!=var2) & (var1!=var3) & (var1!=var4) & (var1!=var5) & (var2!=var3) & (var2!=var4) & (var2!=var5) & (var3!=var4) & (var3!=var5) & (var4!=var5) &  1)) & (((var6!=var7) & (var6!=var8) & (var6!=var9) & (var6!=var10) & (var7!=var8) & (var7!=var9) & (var7!=var10) & (var8!=var9) & (var8!=var10) & (var9!=var10) &  1)) & (((var6 == dist(var0, var1)) & (var7 == dist(var1, var2)) & (var8 == dist(var2, var3)) & (var9 == dist(var3, var4)) & (var10 == dist(var4, var5)) &  1)) & 1 )
 assert(0);
 return 0;
 /* 
