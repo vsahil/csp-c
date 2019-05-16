@@ -12,10 +12,5 @@ with extensional constraints for running with KLEE or
 LLBMC. `intensional-N` directories contain C code translated from
 problems with intensional constraints for running with KLEE or LLBMC.
 
-Developed by Sahil Verma <vsahil@iitk.ac.in> during internships at the
-National University of Singapore, under the guidance of [Andrew
-Santosa](https://github.com/domainexpert) and [Roland
-Yap](http://www.comp.nus.edu.sg/~ryap).
-
 This software is in the public domain.
 
